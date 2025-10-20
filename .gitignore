@@ -1,0 +1,13 @@
+# ===============================
+# Python / ML End-to-End Project
+# ===============================
+
+data/
+
+# Environment and dependency files (keep only environment.yml)
+*.env
+
+
+# ===============================
+# End of file
+# ===============================
